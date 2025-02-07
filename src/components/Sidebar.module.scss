@@ -1,0 +1,15 @@
+.sidebar{
+    flex: 0 0 19rem;
+  z-index: 200;
+  padding: 0;
+  // background: $content-background-color;
+//   position: relative;
+position: fixed;
+  font-family: "Nunito", sans-serif;
+  // -webkit-animation: slide 0.1s ease-in-out;
+  // animation: slide 0.1s ease-in-out;
+  background: #333;
+  height: 100vh ;
+  width: 300px;
+
+}
